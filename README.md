@@ -1,8 +1,9 @@
 # pdf2dicom
+
 Convert a PDF to an Encapsulated DICOM using pydicom
 
 Pre-requisites:
-    pydicom
+pydicom
 
 ### Usage
 
